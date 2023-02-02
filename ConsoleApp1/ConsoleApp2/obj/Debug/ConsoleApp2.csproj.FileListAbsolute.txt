@@ -1,0 +1,7 @@
+C:\asp2023\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\asp2023\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\asp2023\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\asp2023\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
