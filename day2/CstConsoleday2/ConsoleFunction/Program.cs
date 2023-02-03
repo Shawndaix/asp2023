@@ -37,8 +37,13 @@ namespace ConsoleFunction
 
             string SayHello(string str = "Joy")
             {
-                string message = "Welcome to CST College:" + str;
+                string mess1 = "Happy Chinese New Year 2023!";
+                string mess2 = "Welocome!!!";
+
+                // string message = "Welcome to CST College:" + str;
+                string message = $"Welcome to CST College {str}  {mess1}  {mess2}";
                 return message;
+
             }
         }
     }
