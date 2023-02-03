@@ -1,0 +1,6 @@
+C:\Users\Shawn\source\repos\CstDay3\CstSwitchApp\bin\Release\CstSwitchApp.exe.config
+C:\Users\Shawn\source\repos\CstDay3\CstSwitchApp\bin\Release\CstSwitchApp.exe
+C:\Users\Shawn\source\repos\CstDay3\CstSwitchApp\bin\Release\CstSwitchApp.pdb
+C:\Users\Shawn\source\repos\CstDay3\CstSwitchApp\obj\Release\CstSwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay3\CstSwitchApp\obj\Release\CstSwitchApp.exe
+C:\Users\Shawn\source\repos\CstDay3\CstSwitchApp\obj\Release\CstSwitchApp.pdb

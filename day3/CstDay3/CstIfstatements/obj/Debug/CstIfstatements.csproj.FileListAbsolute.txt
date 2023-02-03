@@ -1,0 +1,7 @@
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\bin\Debug\CstIfstatements.exe.config
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\bin\Debug\CstIfstatements.exe
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\bin\Debug\CstIfstatements.pdb
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.exe
+C:\Users\Shawn\source\repos\CstDay3\CstIfstatements\obj\Debug\CstIfstatements.pdb
