@@ -1,0 +1,7 @@
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\bin\Debug\forloopEvenresult.exe.config
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\bin\Debug\forloopEvenresult.exe
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\bin\Debug\forloopEvenresult.pdb
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.exe
+C:\Users\Shawn\source\repos\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.pdb

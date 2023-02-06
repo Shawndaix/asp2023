@@ -1,0 +1,7 @@
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\bin\Debug\loopchenfa.exe.config
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\bin\Debug\loopchenfa.exe
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\bin\Debug\loopchenfa.pdb
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\obj\Debug\loopchenfa.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\obj\Debug\loopchenfa.exe
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\obj\Debug\loopchenfa.pdb
+C:\Users\Shawn\source\repos\CstDay4\loopchenfa\obj\Debug\loopchenfa.csproj.AssemblyReference.cache

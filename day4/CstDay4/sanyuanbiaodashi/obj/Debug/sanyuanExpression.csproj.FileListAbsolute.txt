@@ -1,0 +1,7 @@
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\bin\Debug\sanyuanbiaodashi.exe.config
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\bin\Debug\sanyuanbiaodashi.exe
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\bin\Debug\sanyuanbiaodashi.pdb
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\obj\Debug\sanyuanExpression.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\obj\Debug\sanyuanbiaodashi.exe
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\obj\Debug\sanyuanbiaodashi.pdb
+C:\Users\Shawn\source\repos\CstDay4\sanyuanbiaodashi\obj\Debug\sanyuanExpression.csproj.AssemblyReference.cache

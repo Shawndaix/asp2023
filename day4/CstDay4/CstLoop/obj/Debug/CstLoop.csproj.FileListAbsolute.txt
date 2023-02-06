@@ -1,0 +1,7 @@
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\bin\Debug\CstLoop.exe.config
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\bin\Debug\CstLoop.exe
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\bin\Debug\CstLoop.pdb
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\obj\Debug\CstLoop.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\obj\Debug\CstLoop.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\obj\Debug\CstLoop.exe
+C:\Users\Shawn\source\repos\CstDay4\CstLoop\obj\Debug\CstLoop.pdb

@@ -1,0 +1,7 @@
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\bin\Debug\DaysoftheMonth.exe.config
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\bin\Debug\DaysoftheMonth.exe
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\bin\Debug\DaysoftheMonth.pdb
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.exe
+C:\Users\Shawn\source\repos\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.pdb
