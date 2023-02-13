@@ -9,6 +9,5 @@ namespace CstDemo2
     interface IPolygon
     {
         double CalculateArea(double a,double b);
-        //double CalculatePerimeter(double a, double b);
     }
 }
