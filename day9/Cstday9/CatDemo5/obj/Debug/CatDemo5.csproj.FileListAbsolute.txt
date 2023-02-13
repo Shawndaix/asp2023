@@ -1,0 +1,7 @@
+C:\asp2023\day9\Cstday9\CatDemo5\bin\Debug\CatDemo5.exe.config
+C:\asp2023\day9\Cstday9\CatDemo5\bin\Debug\CatDemo5.exe
+C:\asp2023\day9\Cstday9\CatDemo5\bin\Debug\CatDemo5.pdb
+C:\asp2023\day9\Cstday9\CatDemo5\obj\Debug\CatDemo5.csproj.AssemblyReference.cache
+C:\asp2023\day9\Cstday9\CatDemo5\obj\Debug\CatDemo5.csproj.CoreCompileInputs.cache
+C:\asp2023\day9\Cstday9\CatDemo5\obj\Debug\CatDemo5.exe
+C:\asp2023\day9\Cstday9\CatDemo5\obj\Debug\CatDemo5.pdb
