@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CstDemo2
+{
+    interface IPolygon
+    {
+        double CalculateArea(double a,double b);
+        //double CalculatePerimeter(double a, double b);
+    }
+}

@@ -1,0 +1,7 @@
+C:\asp2023\day9\Cstday9\CstDemo3\bin\Debug\CstDemo3.exe.config
+C:\asp2023\day9\Cstday9\CstDemo3\bin\Debug\CstDemo3.exe
+C:\asp2023\day9\Cstday9\CstDemo3\bin\Debug\CstDemo3.pdb
+C:\asp2023\day9\Cstday9\CstDemo3\obj\Debug\CstDemo3.csproj.AssemblyReference.cache
+C:\asp2023\day9\Cstday9\CstDemo3\obj\Debug\CstDemo3.csproj.CoreCompileInputs.cache
+C:\asp2023\day9\Cstday9\CstDemo3\obj\Debug\CstDemo3.exe
+C:\asp2023\day9\Cstday9\CstDemo3\obj\Debug\CstDemo3.pdb
