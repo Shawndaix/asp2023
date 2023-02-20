@@ -1,0 +1,10 @@
+C:\asp2023\day13\CstDay13\CstDemo2\bin\Debug\CstDemo2.exe.config
+C:\asp2023\day13\CstDay13\CstDemo2\bin\Debug\CstDemo2.exe
+C:\asp2023\day13\CstDay13\CstDemo2\bin\Debug\CstDemo2.pdb
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.csproj.AssemblyReference.cache
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.frmLogin.resources
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.Properties.Resources.resources
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.csproj.GenerateResource.cache
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.csproj.CoreCompileInputs.cache
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.exe
+C:\asp2023\day13\CstDay13\CstDemo2\obj\Debug\CstDemo2.pdb
