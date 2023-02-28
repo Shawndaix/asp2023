@@ -1,0 +1,34 @@
+﻿@using System.Data;
+
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/shared/_Layout_CST.cshtml";
+}
+
+<h2>List All Users</h2>
+
+@{
+    DataTable dt = (DataTable)ViewData["dt"];
+}
+
+<table style="width:100%">
+    <tr>
+        <th style="text-align:center">UserID</th>
+        <th style="text-align:center">UserName</th>
+        <th style="text-align:center">UserAge</th>
+        <th style="text-align:center">UserEmail</th>
+        <th style="text-align:center">UserMobile</th>
+    </tr>
+
+    @foreach (DataRow row in dt.Rows)
+    {
+        <tr>
+            <td style="text-align:center">@row["UserID"]</td>
+            <td style="text-align:center">@row["UserName"]</td>
+            <td style="text-align:center">@row["UserAge"]</td>
+            <td style="text-align:center">@row["UserEmail"]</td>
+            <td style="text-align:center">@row["UserMobile"]</td>
+        </tr>
+    }
+
+</table>
