@@ -5,25 +5,28 @@
 }
 
 <h2>AddUser</h2>
-<table>
-    <tr>
-        <td>UserName</td>
-        <td><input type="text" /></td>
-    </tr>
-    <tr>
-        <td>UserAge</td>
-        <td><input type="text" /></td>
-    </tr>
-    <tr>
-        <td>UserEmial</td>
-        <td><input type="text" /></td>
-    </tr>
-    <tr>
-        <td>UserMobile</td>
-        <td><input type="text" /></td>
-    </tr>
-</table>
-<br />
-<button type="button">Add</button>
-
-
+<div class="container">
+    <form method="post" action="/UserList/ProcessAddUser">
+        <table>
+            <tr>
+                <td>UserName</td>
+                <td><input type=@Html.TextBox("UserName")</td>
+            </tr>
+            <tr>
+                <td>UserAge</td>
+                <td><input type=@Html.TextBox("UserAge")</td>
+            </tr>
+            <tr>
+                <td>UserEmail</td>
+                <td><input type=@Html.TextBox("UserEmail")</td>
+            </tr>
+            <tr>
+                <td>UserMobile</td>
+                <td><input type=@Html.TextBox("UserMobile")</td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="add user"></td>
+            </tr>
+        </table>
+    </form>
+</div>

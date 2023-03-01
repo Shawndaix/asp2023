@@ -169,6 +169,7 @@
     <Content Include="Views\UserList\Show.cshtml" />
     <Content Include="Views\Shared\_Layout_CST.cshtml" />
     <Content Include="Views\UserList\AddUser.cshtml" />
+    <Content Include="Views\UserList\AddwithValid.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

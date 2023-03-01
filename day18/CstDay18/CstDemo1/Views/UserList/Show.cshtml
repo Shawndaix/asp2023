@@ -11,6 +11,13 @@
     DataTable dt = (DataTable)ViewData["dt"];
 }
 
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script type="text/javascript">
+    $('.Delete').on('click', function () {
+        return confirm('Are you SURE?');
+    });
+</script>
+
 <table style="width:100%">
     <tr>
         <th style="text-align:center">UserID</th>
@@ -18,6 +25,7 @@
         <th style="text-align:center">UserAge</th>
         <th style="text-align:center">UserEmail</th>
         <th style="text-align:center">UserMobile</th>
+        <th style="text-align:center">Delete</th>
     </tr>
 
     @foreach (DataRow row in dt.Rows)
@@ -28,6 +36,7 @@
             <td style="text-align:center">@row["UserAge"]</td>
             <td style="text-align:center">@row["UserEmail"]</td>
             <td style="text-align:center">@row["UserMobile"]</td>
+            <td style="text-align:center">@Html.ActionLink("DeleteUser", "Delete", new{ ID= row["UserID"]},new{})</td>
         </tr>
     }
 
